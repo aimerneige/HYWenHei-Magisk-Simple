@@ -1,7 +1,5 @@
 # HYWenHei-Magisk-Simple
 
-![](https://hanyiwebsite.oss-cn-beijing.aliyuncs.com/fontheaderimg/%E6%B1%89%E4%BB%AA%E6%96%87%E9%BB%91/5.00/HYWenHei-55W.svg)
-
 使用[「CJK 字体 Magisk 模块模板 简易版」](https://github.com/lxgw/simple-cjk-font-magisk-module-template)制作的[「汉仪文黑」](https://www.hanyi.com.cn/productdetail?id=987)字体模块。
 
 [字体模板说明](README-lxgw.md)
