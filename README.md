@@ -16,7 +16,7 @@
 > [「汉仪文黑」](https://www.foundertype.com/index.php/FontInfo/index/id/684) 是一款商业字体，汉仪字库免费授权个人非商业使用，本 Magisk 模块仅用于个人手机内安装使用，不涉及任何商业活动。在使用本模块的过程中违反相关协议引发的侵权行为由使用者自行承担，本项目概不负责。
 
 1. 在 GitHub 直接下载：<https://github.com/aimerneige/HYWenHei-Magisk-Simple/releases>
-2. 网络较差可以使用 [AiurDrive](https://github.com/AiursoftWeb/AiurDrive) 托管的文件：<https://aimerneige.aiur.site/magisk/hywenhei-bold-magisk-simple-v1.0.220804.zip>
+2. 网络较差可以使用 [AiurDrive](https://github.com/AiursoftWeb/AiurDrive) 托管的文件：<https://aimerneige.download.aiur.site/magisk/hywenhei-bold-magisk-simple-v1.0.220804.zip>
 
 ## 打包
 
