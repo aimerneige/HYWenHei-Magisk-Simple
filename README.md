@@ -4,6 +4,8 @@
 
 [字体模板说明](README-lxgw.md)
 
+加粗版本：<https://github.com/aimerneige/HYWenHei-Magisk-Simple/tree/bold>
+
 非原生系统谨慎刷入
 
 本项目不会对您的 **设备损坏** 及 **数据丢失** 负责，下载 release 视为同意。
